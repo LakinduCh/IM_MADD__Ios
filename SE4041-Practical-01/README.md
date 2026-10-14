@@ -1,4 +1,4 @@
-# LAB1 – Swift Basics
+# SE4041 Practical 01 – Swift Basics
 
 **What this lab is about:** the first steps in Swift: storing values, working with
 different kinds of data, and handling "maybe there is no value" cases.

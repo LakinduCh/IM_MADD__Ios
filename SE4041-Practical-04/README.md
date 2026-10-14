@@ -1,4 +1,4 @@
-# LAB4 – First iOS App (SwiftUI)
+# SE4041 Practical 04 – First iOS App (SwiftUI)
 
 **What this lab is about:** building a real iPhone app with SwiftUI: screens, text input,
 a list, and navigation between screens.

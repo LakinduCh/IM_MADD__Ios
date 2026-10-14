@@ -1,4 +1,4 @@
-# LAB3 – Functions, Closures and Enums
+# SE4041 Practical 03 – Functions, Closures and Enums
 
 **What this lab is about:** reusable code (functions), short inline code (closures such as
 `filter` and `reduce`), and fixed sets of choices (enumerations).

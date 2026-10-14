@@ -1,4 +1,4 @@
-# LAB2 – Collections and Control Flow
+# SE4041 Practical 02 – Collections and Control Flow
 
 **What this lab is about:** grouping data together (arrays, sets, dictionaries) and
 making decisions or repeating work (`if`, `switch`, loops).

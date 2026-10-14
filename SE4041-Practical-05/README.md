@@ -1,6 +1,6 @@
-# LAB5 – Quick Tasks (Apple Watch app)
+# SE4041 Practical 05 – Quick Tasks (Apple Watch app)
 
-**What this lab is about:** the same SwiftUI ideas as LAB4, but on a small Apple Watch screen:
+**What this lab is about:** the same SwiftUI ideas as Practical 04, but on a small Apple Watch screen:
 a short to-do list you can tick off at a glance.
 
 ## What's inside
