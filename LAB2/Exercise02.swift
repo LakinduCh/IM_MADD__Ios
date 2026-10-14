@@ -20,7 +20,7 @@ print(swiftClass.union(kotlinClass).sorted())
 print(swiftClass.intersection(kotlinClass).sorted())
 print(swiftClass.subtracting(kotlinClass).sorted())
 print(swiftClass.symmetricDifference(kotlinClass).sorted())
-
+        
 let mobileDevelopmentStudents: Set = ["Amal", "Nimali", "Ruwan", "Sanduni"]
 let gameTechnologyStudents: Set = ["Ruwan", "Sanduni", "Kasun", "Dilini"]
 
